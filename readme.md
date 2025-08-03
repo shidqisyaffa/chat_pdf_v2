@@ -1,4 +1,4 @@
-# Aplikasi Chat PDF Terdepan
+# Aplikasi Chat PDF 
 
 Aplikasi chat PDF canggih yang memungkinkan pengguna berinteraksi dengan dokumen mereka menggunakan Large Language Model lokal melalui LM Studio. Fitur mencakup autentikasi pengguna, riwayat chat persisten, manajemen dokumen, dan kemampuan menjawab pertanyaan yang cerdas.
 
